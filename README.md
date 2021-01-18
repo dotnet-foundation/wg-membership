@@ -22,9 +22,13 @@ This working group seeks to have a diverse set of representatives from various s
 
 If you have an idea on how the membership offering could be enhanced or any issues you think should be addressed with the current membership offering, please raise an issue on this GitHub Repository
 
-### Attending Membership Meetings
+### Joining And Attending Membership Meetings
 
-_Info on how to join the committee here._
+- Clone this repo.
+- Open a branch called _github handle_/request-membership
+- Add your name and link to your GitHub handle in the `Members` section below.
+- Raise a PR with this change.
+- On seeing this [Bill Wagner](https://github.com/BillWagner) will merge and send you the next meetings invite.
 
 ## Members
 
