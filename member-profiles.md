@@ -2,7 +2,7 @@
 
 The .NET Foundation welcomes participation and input from it's many types of member. The Foundation wants to benefit the whole .NET ecosystem and recognizes that there are many types of technologist within this.
 
-This document outlines some of the different types of .NET Foundation member. It includes:
+This document outlines some of the different characteristics of a .NET Foundation member. It includes:
 
 * Who are they?
 * What is their involvement?
