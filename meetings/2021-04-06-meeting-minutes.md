@@ -22,6 +22,7 @@ I added comments to the issues in GitHub as we discussed them. Below is more det
 - The value of corporate sponsorship was raised. What is the value for corporate sponsors.
 - It was suggested the foundation could explore sponsored projects. Corporate sponsorship spots for targeted and achievable projects aligning with the .NET Foundations overarching goal.
 - Should we be surveying those who don't renew their memberships as well as those joining?
+- @khalidabuhakmeh shared an article from The Register relating to this issue as a comment on the issue. 
 
 ### [#22 - Strengthen and Build Community Culture ](https://github.com/dotnet-foundation/wg-membership/issues/22)
 
@@ -36,6 +37,10 @@ The committee would like dates around the timeline for the board elections so we
 The time commitment of nomination committee members would also like to be known for when we are approaching others about taking part.
 
 DJ has raised his interest in being a member of the nomination committee. It's agreed he would be a good addition.
+
+## Extra News
+
+- The portal for corporate sponsors is still in progress, which once done will enable a membership portal to be released. This will include membership payment management and a forum for discussions.
 
 **ACTIONS**:
 
