@@ -2,7 +2,10 @@
 
 ## Review action items
 
-None outstanding.
+- [ ] Bill to reach out to Beth and Rodney on the sponsor program
+- [ ] Bill to propose next fiscal year's membership committee budget.
+- [ ] Tom to share information on other groups mentor programs.
+- [ ] All: Review volunteers for nominating committee.
 
 ## Review and comment on Issues
 
@@ -19,10 +22,3 @@ Let's discuss this in the context of the survey responses.
 ### [#22 - Strengthen and Build Community Culture](https://github.com/dotnet-foundation/wg-membership/issues/22)
 
 Let's discuss this in the context of the survey responses.
-
-**ACTIONS**:
-
-- [ ] Bill to reach out to Beth and Rodney on the sponsor program
-- [ ] Bill to propose next fiscal year's membership committee budget.
-- [ ] Tom to share information on other groups mentor programs.
-- [ ] All: Review volunteers for nominating committee.
