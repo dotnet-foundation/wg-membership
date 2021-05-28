@@ -2,23 +2,32 @@
 
 ## Review action items
 
-- [ ] Bill to reach out to Beth and Rodney on the sponsor program
+- [X] Bill to reach out to Beth and Rodney on the sponsor program
 - [ ] Bill to propose next fiscal year's membership committee budget.
 - [ ] Tom to share information on other groups mentor programs.
-- [ ] All: Review volunteers for nominating committee.
+- [X] All: Review volunteers for nominating committee.
 
-## Review and comment on Issues
+## Finalize the nominating committee
 
-### [#20 - Setting up nomination committee for elections](https://github.com/dotnet-foundation/wg-membership/issues/20)
+The Membership Committee discussed the upcoming Nominating Committee. The Committee discussed how to prevent the Board elections from being simply a popularity contest. The following Nominating Committee members were selected. 
 
-We have received a number of positive responses for both the nominating committee and the board. It's time to finalize the nominating committee.
+- Samdip Basu
+- Dave Brock
+- Iris Classon (remember member)
+- Benjamin Day
+- Dhanajay Kumar
+- Rabeb Othmani (returning member)
+- Irina Scurtu
 
-> Note that most of this discussion is taking place via email to respect the privacy of thsoe that have asked to be part of the committee.
+## Actions
 
-### [#21 - Determine the value proposition for membership](https://github.com/dotnet-foundation/wg-membership/issues/21)
+- Bill Wagner to send emails to all selected Nominating Committee members.
+- Bill Wagner and Beth Massi will partner to create a Board expectations document for upcoming elections.
+- Bill Wagner to connect with Iris Classon and Rebeb Othmani to start connecting with the other Nominating Committee members.
+- Bill Wagner to send the Membership Committee’s budget wish list to the Finance team.
 
-Let's discuss this in the context of the survey responses.
+## Open Discussion on .NET Survey Results
 
-### [#22 - Strengthen and Build Community Culture](https://github.com/dotnet-foundation/wg-membership/issues/22)
+The Membership Committee reviewed the survey results. The Committee held a discussion on the demographic of the .NET community. The survey proved that the .NET community is overwhelmingly dominating by males and that the top three regions were Europe, North America, and Asia. The Committee discussed better ways to highlight women engineers based on their skillset. The Membership Committee then discussed the Code of Conduct and the lack of awareness that it exists. The Committee agreed to brainstorm ways to improve the gender gaps and encourage new developers to join the .NET community.
 
-Let's discuss this in the context of the survey responses.
+**ACTION**: The Membership Committee members to brainstorm ways to improve the gender gaps in the .NET Community and be prepared to discuss in the next meeting.
