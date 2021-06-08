@@ -12,6 +12,10 @@
 
 Khalid now has a conflict on Tuesday mornings (eastern time). Does a move to Wednesday work?
 
+## Nominating committee update
+
+I'll share any updates from the board nominating committee.
+
 ## Budget discussion
 
 The Membership Committee discussed their budget wish list. The Committee agreed to ask for a budget of $15,000. The following wish list items were discussed:
