@@ -28,7 +28,8 @@ The Membership Committee held a discussion on the .NET Foundation’s value prop
 - Promote current member contributions from the community.
 - Encourage more corporate member contributions to the Foundation to offset Microsoft’s contributions. 
 - Promote ways members can get involved in the community that can be rewarded.
-- Teach members how to find a “good” issue or PR. 
+- Teach members how to find a “good” issue or PR.
+- Look into creating a "standard" way for projects to highlight "external" contributors in the last month. dot.net/thanks but for those thanks you's now listed under powertoys/microsoft terminal releases.
 
 ## New actions:
 
