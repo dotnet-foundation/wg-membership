@@ -39,6 +39,7 @@ If you have an idea on how the membership offering could be enhanced or any issu
 - [Jessica White](https://github.com/wordshaker)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
 - [Dado](https://github.com/amadosoft)
+- [Mitchel Sellers](https://github.com/mitchelsellers)
 
 ## Code Of Conduct
 
