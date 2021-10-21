@@ -7,7 +7,7 @@
 - Jessica White
 - Nicole Miller
 - Ove Bastiansen
-- Mitchell Sellers
+- Mitchel Sellers
 
 ## Introduction
 
