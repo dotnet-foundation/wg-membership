@@ -1,4 +1,4 @@
-# Meeting agenda: Tuesday July 20, 2021
+# Meeting minutes: Tuesday July 20, 2021
 
 ## Review action items
 
