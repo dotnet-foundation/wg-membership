@@ -24,7 +24,7 @@ If you have an idea on how the membership offering could be enhanced or any issu
 
 ### Joining And Attending Membership Meetings
 
-- [Create an issue](https://github.com/dotnet-foundation/wg-memebership/issues/new/choose) using the "Membership" issue template
+- [Create an issue](https://github.com/dotnet-foundation/wg-membership/issues/new/choose) using the "Membership" issue template
 - On seeing this [Bill Wagner](https://github.com/BillWagner) will accept the issue and close it, then send you the next meetings invite.
 
 ## Members
