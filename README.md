@@ -24,11 +24,8 @@ If you have an idea on how the membership offering could be enhanced or any issu
 
 ### Joining And Attending Membership Meetings
 
-- Clone this repo.
-- Open a branch called _github handle_/request-membership
-- Add your name and link to your GitHub handle in the `Members` section below.
-- Raise a PR with this change.
-- On seeing this [Bill Wagner](https://github.com/BillWagner) will merge and send you the next meetings invite.
+- [Create an issue](https://github.com/dotnet-foundation/wg-membership/issues/new/choose) using the "Membership" issue template
+- On seeing this [Bill Wagner](https://github.com/BillWagner) will accept the issue and close it, then send you the next meetings invite.
 
 ## Members
 
@@ -40,6 +37,7 @@ If you have an idea on how the membership offering could be enhanced or any issu
 - [Ove Bastiansen](https://github.com/ovebastiansen)
 - [Dado](https://github.com/amadosoft)
 - [Mitchel Sellers](https://github.com/mitchelsellers)
+- [Calvin Allen](https://github.com/CalvinAllen)
 
 ## Code Of Conduct
 
