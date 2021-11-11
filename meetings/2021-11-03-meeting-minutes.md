@@ -19,8 +19,7 @@
 - *Bill Wagner*: Propose to the board quarterly "All-committee meetings" to brainstorm initiatives that span multiple committees. *Still pending*
 - *To all committee chairs*: Document the charter of each committee on the website. Point to where ongoing committee updates are published (typically a GitHub repo). *In progress.*
 - *Nicole*: Add contact email addresses for project leaders, .NET Foundation individual and corporate members, and general information. *in progress*
-- *Membership committee*: Post [Membership profiles]
-(https://github.com/dotnet-foundation/wg-membership/blob/main/member-profiles.md) on the main website. *Not started*.
+- *Membership committee*: Post [Membership profiles](https://github.com/dotnet-foundation/wg-membership/blob/main/member-profiles.md) on the main website. *Not started*.
 
 ## Issue template to join
 
