@@ -1,4 +1,4 @@
-# Meeting minutes: Wednesday January 5, 2022
+# Meeting minutes: Wednesday February 2, 2022
 
 ## Meeting Attendees
 
@@ -9,14 +9,19 @@
 
 ## Membership Portal actions
 
+What do we want as a vetting process?
+- Github contributions (projects, issues, discussions, etc)
+- run a meetup
+- community action
+- other activities from the [member profiles](../member-profiles.md).
 
 ## All-committee meeting
 
-Update from Jessica.
+Update from Jessica: This is starting with an asynchronous discussion among the committees on each committee's goals and projects. From there we will determine what synchronous meeting is best.
 
 ## Open Discussion: Membership Value Proposition
 
 Can we take some of the brainstorming ideas from recent meetings and add them to a backlog board?
+- update: Several tasks have been created.
 
 ## Actions
-
