@@ -42,4 +42,4 @@
 
 - All: Propose members for Nominating Committee
 - Nicole M: Compile a list of survey questions for member benefits for next meeting
-- Aneesh A.: Submit a proposal within the Membership Committee GitHub Repo for “bug bounties” and other ways to generate revenue other than membership dues
+- Aneesh A.: Submit a proposal within the Membership Committee GitHub Repo for “bug bounties” to create value such as fixing issues/making corrections within the foundation repos.
