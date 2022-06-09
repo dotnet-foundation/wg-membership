@@ -6,15 +6,15 @@ When you apply for membership, we review your application based on the [membersh
 
 First, we validate the personal information:
 
-- Reasonable first name, last name.
-- valid email address: We only validate that it is a valid email address format. Later, when an invitation is sent, that verifies that it's a real address.
-- valid GitHub ID. We validate the profile appears to be human. There should be some activity. The user name must match any contribution links provided. GitHub activity mentioned in the contribution statement should match this ID.
+- First and Last name are reviewed to eliminate potential 'bots'.
+- A valid email address: We only validate that it is a valid email address format. Later, when an invitation is sent, that verifies that it's a real address.
+- A valid GitHub ID: We validate the profile appears to be human. There should be some activity. The user name must match any contribution links provided. GitHub activity mentioned in the contribution statement should match this ID.
 
 ## Open Source Maintainer, Open Source Contributor
 
 See [Open source maintainer](membership-participation-types.md#the-open-source-maintainer) and the [Open source contributor](membership-participation-types.md#the-open-source-contributor).
 
-We look at the contribution links. All activity must conform to the .NET Foundation CoC. Activities examined include:
+We look at the contribution links. All activity must conform to the .NET Foundation [Code of Conduct (CoC)](https://dotnetfoundation.org/about/code-of-conduct). Activities examined include:
 
 - PRs created. We evaluate the participation in the community. Does the PR match the project's guidelines? Does the author engage constructively with reviewers?
 - PR review, and helping new contributors. Are comments in line with the spirit of the CoC? Does the reviewer provide necessary assistance?
@@ -41,21 +41,21 @@ See [Educator particpation type](membership-participation-types.md#the-educator)
 
 We look to the educator's creation and delivery of curriculum in any of the following ways:
 
-- Teaching bootcamp courses, college or high school level courses in software development, where the .NET platform is a signification part of the curriculum.
+- Teaching. Whether that be bootcamp courses, college or high school level courses in software development where the .NET platform is a signification part of the curriculum.
 - Creating .NET based curriculum for any of these area.
 
 ## Knowledge sharers
 
 See [Sharer of knowledge particpation type](membership-participation-types.md#the-sharer-of-knowledge).
 
-We look at the content they create and deliver to spread knowledge. These include:
+The content that the applicant creates and/or delivers to spread knowledge. These include, but are not limited to:
 
 - books
-- conference talks.
+- conference talks
 - twitch streams
-- blogs.
-- online courseware.
-- stack overflow answers.
+- blogs
+- online courseware
+- stack overflow answers
 
 ## Students
 
