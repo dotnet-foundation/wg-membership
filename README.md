@@ -6,7 +6,7 @@ The committee is responsible for evaluating new member applications and discussi
 
 **Chairperson(s):** [Bill Wagner](https://github.com/BillWagner)
 
-**Meets:** 1st and 3rd Tuesday of each month at 1:30pm UTC
+**Meets:** 1st and 3rd Wednesday of each month at 7:00pm UTC
 
 **Repository:** https://github.com/dotnet-foundation/wg-membership
 
@@ -30,7 +30,6 @@ If you have an idea on how the membership offering could be enhanced or any issu
 ## Members
 
 - [Bill Wagner](https://github.com/BillWagner)
-- [Claire Novotny](https://github.com/clairernovotny)
 - [Joseph Guadagno](https://github.com/jguadagno)
 - [Khalid Abuhakmeh](https://github.com/khalidabuhakmeh)
 - [Jessica White](https://github.com/wordshaker)
