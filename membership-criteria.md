@@ -1,6 +1,6 @@
 # Membership criteria
 
-When you apply for membership, we review your application based on the [membership participation types](../membership-participation-types.md) defined. We ask for some basic information about you.
+When you apply for membership, we review your application based on the [membership participation types](membership-participation-types.md) defined. We ask for some basic information about you.
 
 ## Basic information
 
