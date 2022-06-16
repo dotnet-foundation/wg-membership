@@ -1,6 +1,6 @@
 # Membership criteria
 
-When you apply for membership, we review your application based on the [membership participation types](membership-participation-types.md) defined. We ask for some basic information about you. 
+When you apply for membership, we review your application based on the [membership participation types](../membership-participation-types.md) defined. We ask for some basic information about you. 
 
 ## Basic information
 
@@ -16,7 +16,7 @@ See [Open source maintainer](membership-participation-types.md#the-open-source-m
 
 We look at the contribution links. All activity must conform to the .NET Foundation [Code of Conduct (CoC)](https://dotnetfoundation.org/about/code-of-conduct). Activities examined include:
 
-- PRs created. We evaluate the participation in the community. Does the PR match the project's guidelines? Does the author engage constructively with reviewers?
+- Pull Requests (PRs) created. We evaluate the participation in the community. Does the PR match the project's guidelines? Does the author engage constructively with reviewers?
 - PR review, and helping new contributors. Are comments in line with the spirit of the CoC? Does the reviewer provide necessary assistance?
 - Issues created. These should be well-defined issues. We don't evaluate issue quality based on the project maintainer's decision to accept or reject the idea. We do evaluate issues based on the clarity and completeness.
 - Discussion forums. Does the person participate in discussions in a constructive manner?
@@ -25,11 +25,11 @@ A person need not participate in all these areas, but should be active in some o
 
 ## Event organizer
 
-See [Event organizer particpation type](membership-participation-types.md#the-event-organizer).
+See [Event organizer participation type](membership-participation-types.md#the-event-organizer).
 
 We look at the event or user group activities. Examples include:
 
-- Events listed have a CoC that reflects the .NET Foundation's community guidelines.
+- Events listed have a CoC that reflects the .NET Foundation's [community guidelines](https://dotnetfoundation.org/about/code-of-conduct).
 - Consistent track record holding events (virtual or in person).
 - Meetup is listed with the .NET Foundation
 - Responsibility for tasks related to the meetup or conference.
@@ -37,7 +37,7 @@ We look at the event or user group activities. Examples include:
 
 ## Educator
 
-See [Educator particpation type](membership-participation-types.md#the-educator).
+See [Educator participation type](membership-participation-types.md#the-educator).
 
 We look to the educator's creation and delivery of curriculum in any of the following ways:
 
@@ -46,7 +46,7 @@ We look to the educator's creation and delivery of curriculum in any of the foll
 
 ## Knowledge sharers
 
-See [Sharer of knowledge particpation type](membership-participation-types.md#the-sharer-of-knowledge).
+See [Sharer of knowledge participation type](membership-participation-types.md#the-sharer-of-knowledge).
 
 The content that the applicant creates and/or delivers to spread knowledge. These include, but are not limited to:
 
@@ -59,6 +59,6 @@ The content that the applicant creates and/or delivers to spread knowledge. Thes
 
 ## Students
 
-See [Student particpation type](membership-participation-types.md#the-student).
+See [Student participation type](membership-participation-types.md#the-student).
 
 Students have had less time to build a resume of participation. For that reason, we look to their involvement opportunities and if they are helping to bring their perspective in any of the other areas. In addition, we look at any involvement in volunteer activities while at school that are within the .NET community.
