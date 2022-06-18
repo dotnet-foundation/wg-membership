@@ -1,14 +1,26 @@
+name: Spellcheck Action
 
-name: Spellcheck
 on:
   pull_request:
     paths:
     - '**.txt'
     - '**.md'
+
 jobs:
-  spelling:
+  build:
+    name: Spellcheck
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Check Spelling
-      uses: rojopolis/spellcheck-github-actions@v0.24.0
+    - uses: actions/checkout@v3
+    - uses: rojopolis/spellcheck-github-actions@0.24.0
+      name: Spellcheck
+      with:
+        source_files: README.md CHANGELOG.md
+        task_name: Markdown
+        output_file: spellcheck-output.txt
+
+    - uses: actions/upload-artifact@v3
+      name: Archive spellcheck output
+      with:
+        name: Spellcheck artifact
+        path: spellcheck-output.txt
