@@ -20,4 +20,6 @@ Share on your networks the opportunity to submit to be a part of the board or be
 
 **If you are part of the nomination committee you cannot apply for the .NET Foundation Board.** If you are planning to apply for the board, I would be happy to help you with your application and support you in any way I can.
 
+You will also need to be a member of the .NET Foundation. If you aren't already, I can help guide you through the application process.
+
 Please let me know if you are interested or not. Looking forward to hearing from you.
