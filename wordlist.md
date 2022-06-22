@@ -1,4 +1,0 @@
-.NET
-DOTNET
-dotnet
-dotnetfdn
