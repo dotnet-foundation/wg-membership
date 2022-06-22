@@ -5,7 +5,6 @@ matrix:
   default_encoding: utf-8
   aspell:
     lang: en
-    d: en_GB
   dictionary:
     wordlists:
     - wordlist.txt
