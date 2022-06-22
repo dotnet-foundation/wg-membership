@@ -49,3 +49,4 @@ If you assign one of the members of the committee, we will aim to discuss the id
 - The membership committee will automatically be added as reviewers as code owners of this repository
 
 # Licensing
+[Repo license file](./../LICENSE)
