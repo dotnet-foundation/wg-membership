@@ -1,6 +1,6 @@
 ---
 name: Membership
-about: Apply to join the Membership' Working Group
+about: Apply to join the Membership' Committee
 labels: membership
 assignees:
   - billwagner

@@ -4,7 +4,7 @@
 
 # The .NET Foundation Membership Committee
 
-The committee is responsible for evaluating new member applications and discussing membership criteria.
+The committee is responsible for evaluating new member applications and discussing membership criteria. [See more information on .NET Foundation Committees here](https://dotnetfoundation.org/community/committees)
 
 ## Details
 
@@ -18,7 +18,7 @@ The committee is responsible for evaluating new member applications and discussi
 
 The meeting notes are available [here](meetings).
 
-This working group seeks to have a diverse set of representatives from various stakeholders. At the same time, we try to keep the working group somewhat small so that we can have productive meetings. But in order to satisfy the desire for open participation from everyone – and in the sake of transparency – we made this repo public, which includes notes and proposals that documents the progress of the working group. If you have any questions, please open a discussion.
+This committee seeks to have a diverse set of representatives from various stakeholders. At the same time, we try to keep the committee somewhat small so that we can have productive meetings. But in order to satisfy the desire for open participation from everyone – and in the sake of transparency – we made this repo public, which includes notes and proposals that documents the progress of the committee. If you have any questions, please open a discussion.
 
 ## Contributing
 

@@ -1,5 +1,5 @@
 ---
-name: Idea For Membership Working Group
+name: Idea For Membership Committee
 about: Send us your ideas for improving the membership offering
 labels: suggestion
 assignees: ''
