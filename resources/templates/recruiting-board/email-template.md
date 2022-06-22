@@ -7,7 +7,9 @@ Part of why I think you would be great for this is _add some personal detail hel
 Below is some more detail about what is entailed: 
 
 **Time Commitments**
-- 
+- 1.5 hours per month to attend regular board meetings. Expect another 1 hour per month to review materials from committees to prepare for the meeting.
+- 5 hours per month serving on one of the .NET Foundation committees. Board members are expected to work with one of the committees.
+- 6 to 4 hours per month on tasks for committees, or working with foundation members.
 
 **Responsibilities**
 - 
