@@ -1,7 +1,7 @@
 ---
-name: Idea For Membership Committee
-about: Send us your ideas for improving the membership offering
-labels: suggestion
+name: Change for Repository
+about: Let us know about a change or improvement that can be made to this repository
+labels: repository
 assignees: ''
 ---
 
