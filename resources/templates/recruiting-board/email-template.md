@@ -12,7 +12,10 @@ Below is some more detail about what is entailed:
 - 6 to 4 hours per month on tasks for committees, or working with foundation members.
 
 **Responsibilities**
-- 
+- Set goals for the foundation.
+- Set strategic direction to achieve those goals.
+- Set the yearly budget to ensure the financial wellbeing of the foundation.
+- Manages the foundation’s performance against the yearly budget.
 
 If you are interested, I would be happy to help you through the process of the application. Please let me know and we can arrange between us the best way to go forward.
 
