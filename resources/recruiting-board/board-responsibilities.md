@@ -17,9 +17,9 @@ The .NET Foundation board functions as the leadership team for the .NET Foundati
 - Sets the yearly budget to ensure the financial wellbeing of the foundation
 - Manages the foundation’s performance against the yearly budget
 
-In addition to the overall direction of the foundation, individual board members are active in each of the Foundation’s committees. On these committees, the board member may take an active leadership role, or may function as a liaison with other committees and the board as whole.
+In addition to the overall direction of the foundation, individual board members are active in each of the Foundation’s committees. On these committees, the board member may take an active leadership role, or may function as a liaison with other committees and the board as whole. Committee chairs are chosen at the first board meeting following new board members being sworn in. The new board members and current committee chairs work together to determine new and changed assignments.
 
-**Board members are expected to allocate at least 4 hours per week to Foundation tasks.**
+**Board members are expected to allocate at least 4 hours per week to Foundation tasks.** This encompasses the overall board tasks and all committee related tasks.
 
 ## Committee roles and responsibilities
 
@@ -57,4 +57,12 @@ High-level goals:
 
 ## [Membership Committee](https://github.com/dotnet-foundation/wg-membership)
 
-The committee is responsible for evaluating new member applications and discussing membership criteria. The goal is to grow the membership in the foundation, and ensure that members feel that foundation membership provides value. This committee works to create new initiatives that encourage our membership to participate more in the foundation’s activities. These encompass many different roles, from open source projects to career development and mentoring to education opportunities.
+The committee is responsible for evaluating new member applications, discussing membership criteria, and providing services to the foundation's individual members.
+
+High-level goals:
+
+- Grow the membership in the foundation.
+- Ensure that the foundation provides value to members.
+- Provide programs that facilitate communication among and between members.
+
+This committee works to create new initiatives that encourage our membership to participate more in the foundation’s activities. These encompass many different roles, from open source projects to career development and mentoring to education opportunities.
