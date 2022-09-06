@@ -14,4 +14,5 @@ Wednesday, 7 September 2022, 3PM ET
   * Starting on campaign videos
 * **Membership Portal**
   * Updates from Tom / Shaina
+  * Committee page on new website: What content updates to we want?
 ## Next Steps / Action Items
