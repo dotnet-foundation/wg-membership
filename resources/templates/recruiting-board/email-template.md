@@ -16,6 +16,7 @@ Below is some more detail about what is entailed:
 - Set strategic direction to achieve those goals.
 - Set the yearly budget to ensure the financial wellbeing of the foundation.
 - Manages the foundation’s performance against the yearly budget.
+- You can learn more by reading the [board responsibilities](../recruiting-board/board-responsibilities.md) document.
 
 If you are interested, I would be happy to help you through the process of the application. Please let me know and we can arrange between us the best way to go forward.
 
