@@ -8,7 +8,7 @@ The committee is responsible for evaluating new member applications and discussi
 
 ## Details
 
-**Chairperson(s):** [Bill Wagner](https://github.com/BillWagner)
+**Chairperson(s):** [Jessica White](https://github.com/wordshaker)
 
 **Meets:** 1st and 3rd Wednesday of each month at 7:00pm UTC
 
@@ -27,7 +27,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 ## Joining And Attending Membership Meetings
 
 - [Create an issue](https://github.com/dotnet-foundation/wg-membership/issues/new/choose) using the "Membership" issue template
-- On seeing this [Bill Wagner](https://github.com/BillWagner) will accept the issue and close it, then send you the next meetings invite.
+- On seeing this [Jessica White](https://github.com/wordshaker) will accept the issue and close it, then send you the next meetings invite.
 
 <p align="center">
   <img src="./img/membership-request.png" />
@@ -37,7 +37,6 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 ### Members
 
 - [Bill Wagner](https://github.com/BillWagner)
-- [Joseph Guadagno](https://github.com/jguadagno)
 - [Khalid Abuhakmeh](https://github.com/khalidabuhakmeh)
 - [Jessica White](https://github.com/wordshaker)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
