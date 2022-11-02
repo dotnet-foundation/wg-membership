@@ -2,7 +2,7 @@
 
 ## Meeting Attendees
 
-- [Bill Wagner](https://github.com/BillWagner)
+- [Bill Wagner](https://github.com/BillWagner)  _Chair_
 - [Ova Bastiansen](https://github.com/ovebastiansen)
 - [Aneesh Ambikavally](https://github.com/codehippie1)
 - [Calvin Allen](https://github.com/CalvinAllen)

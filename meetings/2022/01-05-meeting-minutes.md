@@ -2,7 +2,7 @@
 
 ## Meeting Attendees
 
-- Bill Wagner
+- [Bill Wagner](https://github.com/BillWagner)  _Chair_
 - Nicole Miller
 - Ove Bastiansen
 - Joe Guadagno

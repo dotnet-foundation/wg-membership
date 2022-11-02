@@ -4,7 +4,7 @@ Wednesday, 12 October 2022, 3PM ET
 
 ## Meeting Attendees
 
-* Bill Wagner
+* Bill Wagner _Chair_
 * Jessica White
 * Nicole Miller
 * Madison Hardy, Scribe
