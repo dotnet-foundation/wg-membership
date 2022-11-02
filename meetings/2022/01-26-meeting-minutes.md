@@ -2,6 +2,7 @@
 
 ## Meeting Attendees
 
+- [Bill Wagner](https://github.com/BillWagner)  _Chair_
 - Ove Bastiansen
 - Nicole Miller
 - Jessica White

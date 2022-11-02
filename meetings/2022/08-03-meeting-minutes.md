@@ -4,7 +4,7 @@ Wednesday, 3 August 2022, 3PM ET
 
 ## Meeting Attendees ###
 
-* Bill Wagner
+* Bill Wagner  _Chair_
 * Calvin Allen
 * Joe Guadagno
 * Jessica White
