@@ -45,7 +45,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 - Eric Schneider
 - [Nicole Miller](https://github.com/nicolebuhakmeh)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
-- Aneesh Ambikavally
+- [Aneesh Ambikavally](https://github.com/codehippie1)
 - Stacey Ramsey
 - [Calvin Allen](https://github.com/CalvinAllen)
 - [Joe Guadagno](https://github.com/jguadagno)
@@ -53,4 +53,6 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 ## Code Of Conduct
 
-[See the Code of Conduct here](CODE_OF_CONDUCT.md)
+[See the Code of Conduct here](CODE_OF_CONDUCT.md). 
+
+For other queries you aren't happy sharing publicaly you can contact Jessica by email - [Jessica.White@dotnetfoundation.org](mailto:Jessica.White@dotnetfoundation.org)
