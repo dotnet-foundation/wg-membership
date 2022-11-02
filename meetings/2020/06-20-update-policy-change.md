@@ -1,0 +1,1 @@
+A proposal was voted on to change the wording of the policy, and was approved by all board members last Friday. We've spent the weekend updating the website (and forgot to update a few places- sorry! We are fixing that!)
