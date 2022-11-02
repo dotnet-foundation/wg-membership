@@ -1,3 +1,12 @@
+**-- HEADER START --**
+
+## Independent. Innovative. And always open source.
+
+Welcome to the .NET Foundation membership portal!
+
+**-- HEADER END --**
+
+
 # The Benefits of Membership
 
 The .NET ecosystem is constantly evolving and growing, and we've seen incredible innovation in the last few years with more to come. If you are passionate about the .NET ecosystem, then you should consider becoming a member. The way we see it, there are two major reasons to become a member.
