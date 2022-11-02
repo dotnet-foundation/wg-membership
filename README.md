@@ -34,15 +34,23 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 </p>
 
 
-### Members
 
-- [Bill Wagner](https://github.com/BillWagner)
-- [Khalid Abuhakmeh](https://github.com/khalidabuhakmeh)
-- [Jessica White](https://github.com/wordshaker)
+## Current Membership
+
+**Chair:**  [Jessica White](https://github.com/wordshaker)
+
+**Scribe** Madison Hardy
+
+**Members**
+- Eric Schneider
+- [Nicole Miller](https://github.com/nicolebuhakmeh)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
-- [Mitchel Sellers](https://github.com/mitchelsellers)
+- Aneesh Ambikavally
+- Stacey Ramsey
 - [Calvin Allen](https://github.com/CalvinAllen)
+- [Joe Guadagno](https://github.com/jguadagno)
+- [Bill Wagner](https://github.com/BillWagner)
 
 ## Code Of Conduct
 
-See the [Code of Conduct file](CODE_OF_CONDUCT.md)
+[See the Code of Conduct here](CODE_OF_CONDUCT.md)
