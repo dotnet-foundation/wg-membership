@@ -2,10 +2,10 @@
 
 ## Meeting Attendees
 
+- [Bill Wagner](https://github.com/BillWagner)  _Chair_
 - [Ova Bastiansen](https://github.com/ovebastiansen)
 - [Joe Guadagno](https://github.com/jguadagno)
 - [Nicole Miller](https://github.com/nocolebuhakmeh)
-- [Bill Wagner](https://github.com/BillWagner)
 - [Jessica White](https://github.com/wordshaker)
 - Tom Pappas
 

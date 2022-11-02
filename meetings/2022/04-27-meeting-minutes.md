@@ -5,7 +5,7 @@ Wednesday, 27 April 2022, 3PM ET
 **Meeting Attendees**
 
 ---
-* Bill Wagner
+* Bill Wagner _Chair_
 * Ove Bastiansen
 * Aneesh Ambikavally
 * Calvin Allen

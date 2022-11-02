@@ -4,7 +4,7 @@ Wednesday, 18 May 2022, 3PM ET
 
 ## Meeting Attendees
 
-- [Bill Wagner](https://github.com/BillWagner)
+- [Bill Wagner](https://github.com/BillWagner) _Chair_
 - [Aneesh Ambikavally](https://github.com/codehippie1)
 - [Calvin Allen](https://github.com/CalvinAllen)
 - [Joe Guadagno](https://github.com/jguadagno)

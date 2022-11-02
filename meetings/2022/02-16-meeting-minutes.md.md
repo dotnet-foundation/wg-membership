@@ -2,9 +2,9 @@
 
 ## Meeting Attendees
 
+- Jessica White
 - Joe Guadagno
 - Nicole Miller
-- Jessica White
 - Tom Pappas
 - Ove Bastiansen
 - Nadeem Abutaa
