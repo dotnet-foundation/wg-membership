@@ -4,7 +4,7 @@ Wednesday, 6 July 2022, 3PM ET
 
 ## Meeting Attendees
 
-* Bill Wagner
+* Bill Wagner  _Chair_
 * Shaina Sullivan
 * Nicole Miller
 * Joe Guadagno

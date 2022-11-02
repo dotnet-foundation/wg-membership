@@ -2,7 +2,7 @@
 
 ## Meeting Attendees ##
 
-* Bill Wagner
+* Bill Wagner _Chair_
 * Joe Guadagno
 * Jessica White
 * Ove Bastiansen
