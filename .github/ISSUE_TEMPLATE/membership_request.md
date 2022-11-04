@@ -3,11 +3,15 @@ name: Membership
 about: Apply to join the Membership' Committee
 labels: membership
 assignees:
-  - billwagner
+  - wordshaker
 ---
 
 ## Name:
 _Your name_
 
-## Projects:
-_Projects that you maintain or contribute to. You do not have to be a project maintainer or contributor, if you have ideas or want to help, you are welcome._
+
+## Name:
+_GitHub Handle_
+
+## Interests:
+_What do you think you can contribute to the committee? What are your interest areas?_
