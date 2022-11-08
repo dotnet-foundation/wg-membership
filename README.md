@@ -34,19 +34,17 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 </p>
 
 
-
 ## Current Membership
 
 **Chair:**  [Jessica White](https://github.com/wordshaker)
 
-**Scribe** Madison Hardy
+**Scribe(s)** Madison Hardy, Stacey Ramsey 
 
 **Members**
 - Eric Schneider
 - [Nicole Miller](https://github.com/nicolebuhakmeh)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
 - [Aneesh Ambikavally](https://github.com/codehippie1)
-- Stacey Ramsey
 - [Calvin Allen](https://github.com/CalvinAllen)
 - [Joe Guadagno](https://github.com/jguadagno)
 - [Bill Wagner](https://github.com/BillWagner)
