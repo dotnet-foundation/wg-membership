@@ -1,6 +1,6 @@
 # .NET Membership Committee Meeting
 
-### 02 December 2022 Time 3PM ET / 7PM GMT
+### 07 December 2022 Time 3PM ET / 7PM GMT
 ### Meeting Attendees
 
 * 
@@ -23,6 +23,7 @@
 
 △ [More information for board and committee responsibilities.](https://github.com/dotnet-foundation/wg-membership/issues/75)
 * Tagged Bill. Awaiting response.
+---
 
 ### Discussion points
 
@@ -35,10 +36,11 @@
 * **[Nomination Committee Future Structure](https://github.com/dotnet-foundation/wg-membership/issues/81)**
     * Discuss next steps to organising this new permanent committe
 
-
+---
 ### Upcoming Meetups Events
 *
 
+---
 ## Next Steps / Action Items
 
 * 
