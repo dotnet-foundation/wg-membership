@@ -63,7 +63,7 @@ The Chairperson will feedback to the other members of the Board of Directors on 
 
 ## Duties, and Responsibilities
 
-The committee meets on the 1st and 3rd Wednesday of each month at 7:00pm UTC. 
+The committee meets on the 1st and 3rd Wednesday of each month at 7:00pm UTC. This time will be revisited once a year or as the makeup changes and different times work better in different time zones.
 
 Meetings have an agenda which is shared on GitHub and can be contributed to by any committee member. Each agenda item will have a GitHub Issue assigned which provides more context to the discussion point. 
 
