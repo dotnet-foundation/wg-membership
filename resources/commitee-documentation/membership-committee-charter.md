@@ -46,15 +46,6 @@ The Chairperson of the committee is an elected member of the Board of Directors.
 
 The current Chairperson of the membership committee is [Jessica White](mailto:Jessica.White@dotnetfoundation.org)
 
-
-## Standard Committee Procedures
-
-The committee meets on the 1st and 3rd Wednesday of each month at 7:00pm UTC. The meetings are faciliated by the chairperson or a volunteer if the chairperson is not available to attend.
-
-Meetings have an agenda which is shared on GitHub and can be contributed to by any committee member. Each agenda item will have a GitHub Issue assigned which provides more context to the discussion point. 
-
-Minutes of each meeting are recorded, and can be viewed [here](../../meetings/).
-
 ### Decisions and disputes
 Decisions are made via vote. If the committee cannot come to agreement on an action, it will be postponed or the chairperson will discuss with other board members to determine which decision would be in the best interests of the foundation.
 
