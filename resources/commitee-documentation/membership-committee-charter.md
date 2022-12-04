@@ -34,9 +34,9 @@ If you cannot attend at that frequency, you could also contribute by submitting 
 
 Each committee meeting will have a draft agenda in GitHub available before the meeting. This is how to check when issues you are passionate about are going to be up for discussion and action votes.
 
-## Termination of Membership
+## Termination of Committee Membership
 
-On a quarterly basis, the chair, scribe or appointed representative will review levels of contribution from [members of the membership GitHub Teams](https://github.com/orgs/dotnet-foundation/teams/membership/members). If the expected contribution levels have not been met, with no reasoning, your membership to this team will be revoked.
+On a quarterly basis, the chair, scribe or appointed representative will review levels of contribution from [members of the membership GitHub Teams](https://github.com/orgs/dotnet-foundation/teams/membership/members). If the expected contribution levels have not been met, without you talking to the committee about the reasoning for the decline in your contributions you will be contacted via email. If you have not responded within 30 days of attempted contact, your membership to this team will be revoked.
 
 After termination, you can re-apply to join the committee if you so wish.
 
