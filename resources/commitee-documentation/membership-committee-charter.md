@@ -61,6 +61,8 @@ Decisions are made via vote. If the committee cannot come to agreement on an act
 ### Feedback to the board
 The Chairperson will feedback to the other members of the Board of Directors on a monthly basis. This includes topics that are currently in discussion, actions being taken and measures of success.
 
+The membership committee will also be informed and updated about board discussions, and their thoughts on these topics are encouraged.
+
 ## Duties, and Responsibilities
 
 The committee meets on the 1st and 3rd Wednesday of each month at 7:00pm UTC. This time will be revisited once a year or as the makeup changes and different times work better in different time zones.
