@@ -9,20 +9,20 @@
 
 ### Updates on previous meetings actions
 
-* **Action Owner: Jessica White**
+* **[Membership Committee Charter](https://github.com/dotnet-foundation/wg-membership/issues/87)**
+    * Jessica to drafted the Membership Committee Charter and distribute to the committee for review: https://github.com/dotnet-foundation/wg-membership/pull/89 ✓ 
 
-✓ [Membership Committee Charter](https://github.com/dotnet-foundation/wg-membership/issues/87)
-- Proposal to set a charter of expected attendence/contributions to be considered an active member and remain in the GitHub Team
+* **[GitHub Teams Tidyup](https://github.com/dotnet-foundation/wg-membership/issues/84)**
+    * Deferred until membership charter is published △
+    * Nicole to distribute information about this action in the upcoming newsletter and on messaging platforms. △
 
+* **[Board and Committee responsibilities](https://github.com/dotnet-foundation/wg-membership/issues/75)**
+    * Tagged Bill. Awaiting response. △
 
-△ [GitHub Teams Tidyup](https://github.com/dotnet-foundation/wg-membership/issues/84)
-* Deferred until membership charter is published
+* **DNF Summit**
+    * Nicole to connect with Jayme Singleton
+    * Aneesh to start the "Count-down Clock" for the event once the date is finalized.
 
-△ [Nomination Committee Future Structure](https://github.com/dotnet-foundation/wg-membership/issues/81)
-* Discuss next steps to organising this new permanent committee
-
-△ [More information for board and committee responsibilities.](https://github.com/dotnet-foundation/wg-membership/issues/75)
-* Tagged Bill. Awaiting response.
 ---
 
 ### Discussion points
