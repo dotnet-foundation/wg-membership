@@ -48,6 +48,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 - [Calvin Allen](https://github.com/CalvinAllen)
 - [Joe Guadagno](https://github.com/jguadagno)
 - [Bill Wagner](https://github.com/BillWagner)
+- [Jason Von Ruden](https://github.com/jvonruden)
 
 ## Code Of Conduct
 
