@@ -1,6 +1,6 @@
 # .NET Membership Committee Meeting
 
-### 21 December 2022, 3PM ET / 7PM GMT
+### 04 January 2023, 3PM ET / 7PM GMT
 ### Meeting Attendees
 
 * 
