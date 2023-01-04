@@ -5,10 +5,6 @@
 
 * 
 
-## Agenda
-
-*
-
 ### Updates on previous meetings actions
 
 * Jessica to merge [Membership Committee Charter](https://github.com/dotnet-foundation/wg-membership/pull/89/files) ✓
@@ -17,12 +13,15 @@
 
 ### Discussion points
 
+* Welcome to joiners and quick overview
+
 * Charter and clean-up complete
 
 * VMX updates
 
 ### Upcoming Meetups Events
-*
+
+* DNF Summit
 
 ## Next Steps / Action Items
 
