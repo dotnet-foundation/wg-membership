@@ -34,8 +34,9 @@
 
 ## Agenda
 
-1. **Membership Form Updates**
-2. **Participation Types Page**
-3. **Discord**
+1. **Review membership submissions**
+2. **Membership Form Updates**
+3. **Participation Types Page**
+4. **Discord**
 
 ### The meeting adjourned at 3:39PM ET
