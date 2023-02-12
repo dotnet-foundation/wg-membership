@@ -34,6 +34,8 @@
 
 ## Agenda
 
+Bring up GitHub Projects to check for any agenda items.
+
 1. **Review membership submissions**
 2. **Membership Form Updates**
 3. **Participation Types Page**
