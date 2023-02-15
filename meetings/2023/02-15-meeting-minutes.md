@@ -11,6 +11,9 @@
 
 **Nicole to draft form for application to be a member**
 
+   * **ACTION** : Any questions we want to add by next meeting?
+   * **ACTION** : Find the VMX onboarding questions
+
 **Jessica to submit webpage edits for review.**
     
 * Add member participation types
@@ -24,7 +27,8 @@
 
 **Aneesh/Jessica to ask Outreach about process for updating the Speakers Page**
 
-* 
+* Raise issue in the Marketing Committees GitHub.
+* Raise to add information for how to edit your details
 
 **Jessica to ask about archiving the old GitHub repo for the .NET Foundation Website**
 
@@ -35,10 +39,11 @@
 **Aneesh to ask about who can be set up as Discord Admins**
 
 * Do you want Nicole or I to reach out to Jon?
+* **ACTION** : Jess to message Jon about creating Admins
 
 **Nicole to look into 'Welcome' email**
 
-*
+* Nicole has a template she is working on.
 
 ## Agenda
 
@@ -46,28 +51,23 @@ Bring up GitHub Projects to check for any agenda items.
 
 ### **Review actions from the previous meeting**
 
-- 
+- ✓
 
 ### **Review membership submissions**
 
-- 
+- ✓
 
 ### **Membership Form Updates**
 
-- 
-
-### **Participation Types Page**
-
-- 
-
-### **Discord**
-
-- 
+- Agreed changes to add participation types and evidence. 
 
 ### **Frequency of meetings**
 
-- Is once every two weeks still ok for everyone or do we want to drop it to once a month?
+- Every two weeks is good at the moment.
 
+### Sitefinity metrics
+
+* **ACTION** : Find out if we can get metrics on page hits, interactions etc.
 
 ---
 
