@@ -34,7 +34,7 @@
 
 **Aneesh to ask about who can be set up as Discord Admins**
 
-* 
+* Do you want Nicole or I to reach out to Jon?
 
 **Nicole to look into 'Welcome' email**
 
