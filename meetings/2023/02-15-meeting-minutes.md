@@ -5,7 +5,10 @@
 ### Meeting Attendees
 
 * Jessica White, *Chair*
-* 
+* Aneesh Ambikavally
+* Ove Bastiansen
+* Nicole Miller
+* Stacey Ramsey, Scribe
 
 ### Updates on previous meetings actions
 
