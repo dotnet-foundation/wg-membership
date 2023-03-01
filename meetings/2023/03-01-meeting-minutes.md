@@ -25,19 +25,16 @@ Bring up GitHub Projects to check for any agenda items.
 
 ### **Review membership submissions**
 
-- Jess to do this week
+- Jess, Ove and Aneesh to do this week
 
 ### **Nomination Committee**
 
 - Updated on Javier chairing the next nomination committee
 
-### **Board committments**
+### **Board committments** 
 
-- Are the bylaws public.
-- Need a plain text explanation on the website about terms.
-- Update board member information
-
-### **Board committments**
+- Need a plain text explanation on the website about terms of being on the board (length of position etc).
+- Update board member information to include more about members of the board
 
 ## Next Steps / Action Items
 
