@@ -45,10 +45,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 - [Nicole Miller](https://github.com/nicolebuhakmeh)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
 - [Aneesh Ambikavally](https://github.com/codehippie1)
-- [Calvin Allen](https://github.com/CalvinAllen)
 - [Joe Guadagno](https://github.com/jguadagno)
-- [Bill Wagner](https://github.com/BillWagner)
-- [Jason Von Ruden](https://github.com/jvonruden)
 
 ## Code Of Conduct
 
