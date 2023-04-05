@@ -1,6 +1,6 @@
 # .NET Membership Committee Meeting
 
-### Wednesday, 1 March 2023, 3PM ET 
+### 01 March 2023 8PM GMT / 3PM ET 
 
 ### Meeting Attendees
 
@@ -41,7 +41,6 @@
 Bring up GitHub Projects to check for any agenda items.
 
 ### **Review actions from the previous meeting**
-
 - ✓
 
 ### **Membership Form Updates**
@@ -105,3 +104,4 @@ Bring up GitHub Projects to check for any agenda items.
 ---
 
 ### The meeting adjourned at 3:39PM ET.
+
