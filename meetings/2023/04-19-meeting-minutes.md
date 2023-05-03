@@ -17,7 +17,7 @@
 * Nicole to update the membership application to request Discord handles.
 
 ✓ Jessica to create member role on discord to set up private channels for .NET Foundation members to access
-  
+
 * Jessica to draft the form allowing members to access the private Discord channel.
   * Need to do.
 
@@ -64,4 +64,3 @@ Bring up GitHub Projects to check for any agenda items.
 ---
 
 ### The meeting adjourned at 3:25PM ET.
-
