@@ -63,11 +63,5 @@ Bring up GitHub Projects to check for any agenda items.
 
 ---
 
-## Action Items
-
-*
-
----
-
 ### The meeting adjourned at 3:25PM ET.
 
