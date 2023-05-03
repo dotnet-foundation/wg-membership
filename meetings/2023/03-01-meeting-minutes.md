@@ -8,7 +8,7 @@
 * Aneesh Ambikavally
 * Ove Bastiansen
 * Nicole Miller
-* Madison Hard, *Scribe*
+* Madison Hardy, *Scribe*
 
 ---
 
