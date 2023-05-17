@@ -54,14 +54,10 @@
     * Aneesh suggested bug bounties so members can help resolve any issues within a project. He added that DNF could add a financial incentive or form of recognition for those who participate in the bounties.
       *  Jessica noted that the committee can coordinate with the Projects and Maintainers Committees to define the need for bug bounties and implement the idea. She added that the Foundation doesn’t necessarily have the budget for incentives and subscriptions but agreed that recognizing different levels of participation could be a good incentive. The committee discussed establishing a badging system that recognizes contribution to DNF projects, participation on DNF committees, and ways to link the badges to other social profiles
 
-### **Other Membership Aims**
+### Membership Value - Open Discussion
 
-* What does this group want to focus on / achieve the rest of this year?
-
-### **Any Other Business** 
-
-* 
+* Jessica noted that the committee needs to revisit the formal training initiative with the Education Committee. · Aneesh suggested partnering with the Mentoring Club, which is a nonprofit start-up that connects members to experts in the community
 
 ---
 
-### The meeting adjourned at __:__PM ET.
+### The meeting adjourned at 3:24 PM ET.
