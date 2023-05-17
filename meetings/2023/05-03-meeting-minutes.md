@@ -5,7 +5,8 @@
 ### Meeting Attendees
 
 * Jessica White, *Chair*
-* 
+* Ove Bastiansen
+* Aneesh Gopalakrishnan
 * Madison Hardy, *Scribe*
 
 ---
@@ -36,7 +37,7 @@
 
 ### **Membership Form Updates**
 
-*
+* There were no new applications to review. The committee discussed a few outstanding applications and determined whether to approve or deny them.
 
 ### **Review actions from the previous meeting**
 
@@ -44,9 +45,14 @@
 
 ### **Discord**
 
-* What other channels can we provide that give membership value?
+* Jessica noted that she needs to ask Nicole to create the Microsoft form to collect social handles from the Discord users.
 
-* Do we need to promote the channels once set up and the members have been added to the applicable role?
+* The committee discussed other member-only channels or benefits to add to the Discord server, such as the call for speakers.
+    * Aneesh suggested a scanning tool for CVs or a subscription bot to create better resumes.
+    * Jessica suggested a “review my talk” channel so members can give feedback on a presentation’s relevancy and content.
+    * Ove suggested adding tags to projects that could notate a project’s need for help, requests for contribution, and general promotion.
+    * Aneesh suggested bug bounties so members can help resolve any issues within a project. He added that DNF could add a financial incentive or form of recognition for those who participate in the bounties.
+      *  Jessica noted that the committee can coordinate with the Projects and Maintainers Committees to define the need for bug bounties and implement the idea. She added that the Foundation doesn’t necessarily have the budget for incentives and subscriptions but agreed that recognizing different levels of participation could be a good incentive. The committee discussed establishing a badging system that recognizes contribution to DNF projects, participation on DNF committees, and ways to link the badges to other social profiles
 
 ### **Other Membership Aims**
 
