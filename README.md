@@ -41,11 +41,10 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 **Scribe(s)** Madison Hardy, Stacey Ramsey 
 
 **Members**
-- Eric Schneider
 - [Nicole Miller](https://github.com/nicolebuhakmeh)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
 - [Aneesh Ambikavally](https://github.com/codehippie1)
-- [Joe Guadagno](https://github.com/jguadagno)
+- [Jorge Levy](https://github.com/jorgelevy)
 
 ## Code Of Conduct
 
