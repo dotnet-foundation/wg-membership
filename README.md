@@ -42,7 +42,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 **Members**
 - Eric Schneider
-- [Nicole Miller](https://github.com/nicolebuhakmeh)
+- [Nicole Miller](https://github.com/nicoleabuhakmeh)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
 - [Aneesh Ambikavally](https://github.com/codehippie1)
 - [Joe Guadagno](https://github.com/jguadagno)
