@@ -7,11 +7,14 @@ assignees:
 ---
 
 ## Name:
+
 _Your name_
 
+## Handles:
 
-## Name:
-_GitHub Handle_
+- GitHub: _GitHub Handle_
+- Discord: _Discord Handle_
 
 ## Interests:
+
 _What do you think you can contribute to the committee? What are your interest areas?_

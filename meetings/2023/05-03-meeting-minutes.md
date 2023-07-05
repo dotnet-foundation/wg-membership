@@ -1,6 +1,6 @@
 # .NET Membership Committee Meeting
 
-### DD Month Year Time GMT / Time EST
+### 05 March 2023 8PM GMT / 3PM ET 
 
 ### Meeting Attendees
 
