@@ -4,7 +4,7 @@
 
 ### Meeting Attendees
 
-* Jessica White, *Chair*
+* Jessica Brentnall, *Chair*
 * 
 * Madison Hardy, *Scribe*
 
