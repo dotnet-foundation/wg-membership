@@ -8,7 +8,7 @@ The committee is responsible for evaluating new member applications and discussi
 
 ## Details
 
-**Chairperson(s):** [Jessica White](https://github.com/wordshaker)
+**Chairperson(s):** [Jessica Brentnall](https://github.com/wordshaker)
 
 **Meets:** 1st and 3rd Wednesday of each month at 7:00pm UTC
 
@@ -36,7 +36,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 ## Current Membership
 
-**Chair:**  [Jessica White](https://github.com/wordshaker)
+**Chair:**  [Jessica Brentnall](https://github.com/wordshaker)
 
 **Scribe(s)** Madison Hardy, Stacey Ramsey 
 

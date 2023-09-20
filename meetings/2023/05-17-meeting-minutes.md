@@ -1,23 +1,5 @@
 # .NET Membership Committee Meeting
 
-### DD Month Year Time GMT / Time EST
-
-### Meeting Attendees
-
-* Nicole Miller, *Chair*
-* 
-* Madison Hardy, *Scribe*
-
----
-
-## Updates on previous meetings actions
-
-### 
-
----
-
-# .NET Membership Committee Meeting
-
 ### 17 May 2023 Time 8PM GMT / 3PM ET 
 
 ### Meeting Attendees
