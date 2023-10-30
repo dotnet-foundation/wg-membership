@@ -10,7 +10,7 @@ The committee is responsible for evaluating new member applications and discussi
 
 **Chairperson(s):** [Jessica Brentnall](https://github.com/wordshaker)
 
-**Meets:** 1st and 3rd Wednesday of each month at 7:00pm UTC
+**Meets:** 1st Wednesday of each month at 7:00pm UTC
 
 **Repository:** https://github.com/dotnet-foundation/wg-membership
 
