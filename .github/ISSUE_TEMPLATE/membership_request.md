@@ -1,5 +1,5 @@
 ---
-name: Membership
+name: Apply to the Membership Committee
 about: Apply to join the Membership' Committee
 labels: membership
 assignees:
