@@ -1,9 +1,10 @@
 ---
 name: Apply to the Membership Committee
-about: Apply to join the Membership' Committee
+about: Join us to help guide the direction of DNF Membership
 labels: membership
 assignees:
   - wordshaker
+  - nicoleabuhakmeh
 ---
 
 ## Name:
