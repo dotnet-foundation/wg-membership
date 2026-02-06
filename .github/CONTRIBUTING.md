@@ -47,8 +47,7 @@ There are several ways to help the .NET Foundation Membership Committee:
 2. Select the **"Idea For Membership Committee"** issue template.  
 3. Fill in the required details and submit.  
 
-> Tip: Assign one of the committee members to your issue for faster review.  
-> You can also present your idea in a meeting if preferred.
+> Tip: Issues are automatically assigned to the appropriate committee members for review.
 
 ---
 
