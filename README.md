@@ -4,7 +4,8 @@
 
 # The .NET Foundation Membership Committee
 
-The committee is responsible for evaluating new member applications and discussing membership criteria. [See more information on .NET Foundation Committees here](https://dotnetfoundation.org/community/committees)
+The committee is responsible for evaluating new member applications and discussing membership criteria. [See more information about .NET Foundation committees here](https://dotnetfoundation.org/community/committees).
+
 
 ## Details
 
@@ -50,4 +51,4 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 [See the Code of Conduct here](CODE_OF_CONDUCT.md). 
 
-For other queries you aren't happy sharing publicaly you can contact Jessica by email - [Jessica.White@dotnetfoundation.org](mailto:Jessica.White@dotnetfoundation.org)
+For other queries you aren't happy sharing publicly, you can contact Jessica by email - [Jessica.White@dotnetfoundation.org](mailto:Jessica.White@dotnetfoundation.org)
