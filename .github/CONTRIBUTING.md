@@ -2,7 +2,7 @@
   <img src="./../img/dotnetfdn.png" alt=".NET Foundation Logo" width="200"/>
 </p>
 
-# Contributing to the .NET Foundation Membership Repository 🚀
+# Contributing to the .NET Foundation Membership Repository
 
 [![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Read-blue?style=for-the-badge)](CODE_OF_CONDUCT.md)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#how-can-i-contribute)
@@ -12,7 +12,7 @@ Welcome! This guide will help you contribute to this repository effectively.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 - [Code of Conduct](#code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
   - [Suggesting Ideas To The Membership Committee](#suggesting-ideas-to-the-membership-committee)
@@ -22,16 +22,16 @@ Welcome! This guide will help you contribute to this repository effectively.
 
 ---
 
-## 📝 Code of Conduct
+## Code of Conduct
 
 Please read our [Code of Conduct](../CODE_OF_CONDUCT.md) before contributing.  
-We expect all contributors to act respectfully and maintain a welcoming community.  
+We expect all contributors to act respectfully and maintain a welcoming community.
 
-> ⚠️ Violations may result in removal from discussions or contributions.
+> Violations may result in removal from discussions or contributions.
 
 ---
 
-## 🚀 How Can I Contribute?
+## How Can I Contribute?
 
 There are several ways to help the .NET Foundation Membership Committee:
 
@@ -41,7 +41,7 @@ There are several ways to help the .NET Foundation Membership Committee:
 
 ---
 
-### 💡 Suggesting Ideas To The Membership Committee
+### Suggesting Ideas To The Membership Committee
 
 1. Navigate to the **[Issues](../../issues)** section.  
 2. Select the **"Idea For Membership Committee"** issue template.  
@@ -52,7 +52,7 @@ There are several ways to help the .NET Foundation Membership Committee:
 
 ---
 
-### 🔧 Suggesting Enhancements To This Repository
+### Suggesting Enhancements To This Repository
 
 1. Go to the **[Issues](../../issues)** section.  
 2. Select the **"Change for Repository"** issue template.  
@@ -62,7 +62,7 @@ There are several ways to help the .NET Foundation Membership Committee:
 
 ---
 
-## 🛠 Raising Pull Requests
+## Raising Pull Requests
 
 Follow these steps to submit changes:
 
@@ -71,11 +71,11 @@ Follow these steps to submit changes:
 3. **Open a pull request** with a clear description of your change.  
 4. The **Membership Committee** will be automatically added as reviewers.
 
-> 💡 Keep PRs small, focused, and well-documented to streamline review.
+> Keep PRs small, focused, and well-documented to streamline review.
 
 ---
 
-## 📄 Licensing
+## Licensing
 
 This repository is covered under the [LICENSE file](./../LICENSE).  
 By contributing, you agree to license your contributions under the same terms.
