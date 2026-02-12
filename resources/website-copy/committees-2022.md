@@ -19,10 +19,6 @@ Head to the repository for more information about how to join and get involved.
 
 ## Chairperson(s)
 
-**Name:** Jessica White
+**Name:** Chris Woodruff
 
-**Email:** jessica.white@dotnetfoundation.org
-
-<p align="center">
-  <img src="../../img/website-copy/jessica.jpg" />
-</p>
+**Email:** Chris.Woodruff@dotnetfoundation.org

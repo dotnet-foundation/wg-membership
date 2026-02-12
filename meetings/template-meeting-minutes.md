@@ -4,7 +4,7 @@
 
 ### Meeting Attendees
 
-* Jessica Brentnall, *Chair*
+* Chris Woodruff, *Chair*
 * 
 * Madison Hardy, *Scribe*
 

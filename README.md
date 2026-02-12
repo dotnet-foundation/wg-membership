@@ -9,7 +9,7 @@ The committee is responsible for evaluating new member applications and discussi
 
 ## Details
 
-**Chairperson(s):** [Jessica Brentnall](https://github.com/wordshaker)
+**Chairperson(s):** Chris Woodruff
 
 **Meets:** 1st Wednesday of each month at 7:00pm UTC
 
@@ -28,7 +28,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 ## Joining And Attending Membership Meetings
 
 - [Create an issue](https://github.com/dotnet-foundation/wg-membership/issues/new/choose) using the "Membership" issue template
-- On seeing this [Jessica White](https://github.com/wordshaker) will accept the issue and close it, then send you the next meetings invite.
+- On seeing this Chris Woodruff will accept the issue and close it, then send you the next meetings invite.
 
 <p align="center">
   <img src="./img/membership-request.png" />
@@ -37,7 +37,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 ## Current Membership
 
-**Chair:**  [Jessica Brentnall](https://github.com/wordshaker)
+**Chair:**  Chris Woodruff
 
 **Scribe(s)** Madison Hardy, Stacey Ramsey 
 
@@ -49,6 +49,4 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 ## Code Of Conduct
 
-[See the Code of Conduct here](CODE_OF_CONDUCT.md). 
-
-For other queries you aren't happy sharing publicly, you can contact Jessica by email - [Jessica.White@dotnetfoundation.org](mailto:Jessica.White@dotnetfoundation.org)
+[See the Code of Conduct here](CODE_OF_CONDUCT.md).

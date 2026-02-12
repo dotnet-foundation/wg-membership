@@ -23,7 +23,7 @@ We ask that you have a GitHub profile set up, as our organisation and tooling is
   <img src="../../img/membership-request.png" />
 </p>
 
-- On seeing this [Jessica White](https://github.com/wordshaker) will accept the issue and close it, then send you the next meetings invite.
+- On seeing this Chris Woodruff will accept the issue and close it, then send you the next meetings invite.
 - After attending two meetings, you will be added to the CODEOWNERS of this repository and be added to the committee GitHub Teams.
 
 ### Expected Level of Contribution
@@ -44,7 +44,7 @@ After termination, you can re-apply to join the committee if you so wish.
 
 The Chairperson of the committee is an elected member of the Board of Directors. They will have volunteered to be the chair and spokesperson of the committee.
 
-The current Chairperson of the membership committee is [Jessica White](mailto:Jessica.White@dotnetfoundation.org)
+The current Chairperson of the membership committee is Chris Woodruff
 
 ### Decisions and disputes
 Decisions are made via vote. If the committee cannot come to agreement on an action, it will be postponed or the chairperson will discuss with other board members to determine which decision would be in the best interests of the foundation.
