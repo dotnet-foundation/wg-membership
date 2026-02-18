@@ -13,6 +13,8 @@ The committee is responsible for evaluating new member applications and discussi
 
 **Meets:** 1st Wednesday of each month at 3:00pm ET (8:00 pm UTC during winter / 7:00pm UTC otherwise)
 
+**Meeting Link (on Discord):** <https://discord.gg/tvYjX73wUW> (Look under events)
+
 **Repository:** https://github.com/dotnet-foundation/wg-membership
 
 ## Governance
