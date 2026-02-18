@@ -56,7 +56,7 @@ The membership committee will also be informed and updated about board discussio
 
 ## Duties, and Responsibilities
 
-The committee meets on the 1st and 3rd Wednesday of each month at 7:00pm UTC. This time will be revisited once a year or as the makeup changes and different times work better in different time zones.
+The committee meets on the 1st Wednesday of each month at 3:00pm ET (8:00 pm UTC during winter / 7:00pm UTC otherwise). This time will be revisited once a year or as the makeup changes and different times work better in different time zones.
 
 Meetings have an agenda which is shared on GitHub and can be contributed to by any committee member. Each agenda item will have a GitHub Issue assigned which provides more context to the discussion point. 
 

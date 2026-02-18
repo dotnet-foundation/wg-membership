@@ -11,13 +11,13 @@ The committee is responsible for evaluating new member applications and discussi
 
 **Chairperson(s):** Chris Woodruff
 
-**Meets:** 1st Wednesday of each month at 7:00pm UTC
+**Meets:** 1st Wednesday of each month at 3:00pm ET (8:00 pm UTC during winter / 7:00pm UTC otherwise)
 
 **Repository:** https://github.com/dotnet-foundation/wg-membership
 
 ## Governance
 
-The meeting notes are available [here](meetings).
+Meeting notes up to early 2024 are available [here](meetings). Meetings are now conducted via Discord.
 
 This committee seeks to have a diverse set of representatives from various stakeholders. At the same time, we try to keep the committee somewhat small so that we can have productive meetings. But in order to satisfy the desire for open participation from everyone – and in the sake of transparency – we made this repo public, which includes notes and proposals that documents the progress of the committee. If you have any questions, please open a discussion.
 
@@ -39,13 +39,13 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md)
 
 **Chair:**  Chris Woodruff
 
-**Scribe(s)** Madison Hardy, Stacey Ramsey 
+**Scribe(s)** Angela Cruz
 
 **Members**
-- [Nicole Miller](https://github.com/nicolebuhakmeh)
+- [Chris Woodruff](https://github.com/cwoodruff)
+- [Aneesh Gopalakrishnan](https://github.com/codehippie1)
 - [Ove Bastiansen](https://github.com/ovebastiansen)
-- [Aneesh Ambikavally](https://github.com/codehippie1)
-- [Jorge Levy](https://github.com/jorgelevy)
+- [Isaiah Clifford Opoku](https://github.com/Clifftech123)
 
 ## Code Of Conduct
 
