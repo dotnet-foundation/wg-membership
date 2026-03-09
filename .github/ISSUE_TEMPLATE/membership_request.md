@@ -4,7 +4,6 @@ about: Join us to help guide the direction of DNF Membership
 labels: membership
 assignees:
   - cwoodruff 
-  - codehippie1
 ---
 
 ## Name:
