@@ -1,19 +1,19 @@
 ---
 name: Apply to the Membership Committee
-about: Apply to join the .NET Foundation Membership Committee
+about: Join us to help guide the direction of DNF Membership
 labels: membership
 assignees:
   - wordshaker
   - nicoleabuhakmeh
 ---
 
-## Name
+## Name:
 
-_Your full name_
+_Your name_
 
 ---
 
-## Handles
+## Handles:
 
 Please share the platforms where we can reach you:
 
@@ -33,6 +33,6 @@ Please tell us a bit about yourself and your interest in joining the committee:
 
 ---
 
-## Additional Information (Optional)
+## Interests:
 
-_Anything else you’d like us to know (prior community involvement, working groups, initiatives, etc.)_
+_What do you think you can contribute to the committee? What are your interest areas?_
