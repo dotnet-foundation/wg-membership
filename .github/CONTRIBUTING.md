@@ -1,52 +1,62 @@
 <p align="center">
-  <img src="./../img/dotnetfdn.png" />
+  <img src="./../img/dotnetfdn.png" alt=".NET Foundation Logo" width="200"/>
 </p>
 
-# Contributing to this repository
+# Contributing to the .NET Foundation Membership Repository
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Read-blue?style=for-the-badge)](CODE_OF_CONDUCT.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#how-can-i-contribute)
+[![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](./../LICENSE)
 
-[How Can I Contribute?](#how-can-i-contribute)
-- [Contributing to this repository](#contributing-to-this-repository)
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
-  - [Suggesting Ideas To The Membership Committee](#suggesting-ideas-to-the-membership-committee)
-  - [Suggesting Enhancements To This Repository](#suggesting-enhancements-to-this-repository)
-- [Raising Pull Requests](#raising-pull-requests)
-- [Licensing](#licensing)
+---
 
-# Code of Conduct
+## Code of Conduct
 
-Please read and refer to [this file](../CODE_OF_CONDUCT.md) and it's links.
+Please read our [Code of Conduct](../CODE_OF_CONDUCT.md) before contributing.
+We expect all contributors to act respectfully and maintain a welcoming community.
 
-# How Can I Contribute?
+---
 
-There are many ways you can help the .NET Foundation Membership Committee:
-- Join us
-- Send us your suggestions to improve the membership offering
-- Contribute to the repository
+## How Can I Contribute?
 
+There are several ways to help:
 
-## Suggesting Ideas To The Membership Committee
+* Suggest improvements to membership processes
+* Contribute to documentation or repository improvements
+* Share ideas with the community
 
-- Head to the `Issues` section of this repository. 
-- Select the `Idea For Membership Committee` issue template
-- Fill in the details and submit
+---
 
-If you assign one of the members of the committee, we will aim to discuss the idea in an upcoming meeting. Alternatively you can come to a meeting and present it yourself.
+### Suggesting Ideas to the Membership Committee
 
-## Suggesting Enhancements To This Repository
+1. Go to the **[Issues](../../issues)** section
+2. Select **"Idea For Membership Committee"**
+3. Submit your idea with clear details
 
-- Head to the `Issues` section of this repository. 
-- Select the `Change for Repository` issue template
-- Fill in the details and submit
+---
 
-# Raising Pull Requests
+### Suggesting Enhancements to This Repository
 
-- Fork the repository
-- Open a branch and commit your changes
-- Raise a pull request and fill in the information asked for in the description
-- The membership committee will automatically be added as reviewers as code owners of this repository
+1. Go to the **[Issues](../../issues)** section
+2. Select **"Change for Repository"**
+3. Describe your improvement clearly
 
-# Licensing
-[Repo license file](./../LICENSE)
+> Tip: Small, focused changes are reviewed faster.
+
+---
+
+## Raising Pull Requests
+
+1. Fork the repository
+2. Create a branch and make changes
+3. Open a pull request with a clear description
+4. Reviewers will be automatically assigned
+
+> Keep PRs small, focused, and well-documented.
+
+---
+
+## Licensing
+
+This repository is covered under the [LICENSE](./../LICENSE).
+By contributing, you agree to license your contributions under the same terms.

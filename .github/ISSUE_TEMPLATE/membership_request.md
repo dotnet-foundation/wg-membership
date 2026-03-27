@@ -4,16 +4,7 @@ name: Apply to the Membership Committee
 about: Apply to join the .NET Foundation Membership Committee
 labels: membership
 assignees:
-
-* wordshaker
-* nicoleabuhakmeh
-
----
-
-## Name
-
-*Your full name*
-
+  - cwoodruff 
 ---
 
 ## Handles
